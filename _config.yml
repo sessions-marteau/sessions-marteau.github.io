@@ -7,7 +7,8 @@ url                          : "" # the base hostname & protocol for your site
 blog:
   title                      : sessions d'écoute marteau
   description                  : >
-                               this should contain a proper description
+                               Sessions d'écoute Marteau 2019
+
 
 # Layout configuration
   logo_path                  : "assets/img/marteau.svg" # path to logo file
@@ -26,7 +27,7 @@ blog:
 
 # Author info
 author:
-  fullname                  : Your Name
+  fullname                  : Sessions d'écoute Marteau
   rss                       : true # generate RSS feed and show it's icon in header
   mail                      : info@sessionsmarteau.com # change to your e-mail address
   twitter                   : twitter-user-name

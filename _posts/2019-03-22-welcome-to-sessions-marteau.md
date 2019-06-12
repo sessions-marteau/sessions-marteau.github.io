@@ -20,5 +20,5 @@ Les sessions d’écoute Marteau ont pour but d’offrir au public un répertoir
 
 En partenariat avec Filtronique pour l'équipement sonore de haute fidélité et les collections des commissaires invités.
 
-Nous sommes un organisme à but non lucratif (OBNL) non subventionné.
+Nous sommes un organisme à but non lucratif non subventionné.
 © Sessions d'écoute Marteau - (NEQ 1174411117) - OBNL fondé le 19 mars 2019

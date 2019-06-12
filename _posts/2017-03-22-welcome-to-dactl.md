@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Welcome to dactl!"
+title:  "Welcome to Sessions d'écoute Marteau!"
 tags:
-  - dactl
-  - jekyll
+  - marteau
 hero: https://source.unsplash.com/collection/430471/
 overlay: red
 published: true

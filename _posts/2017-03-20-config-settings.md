@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 'Layout settings and more in _config.yml'
+title: 'Listening session #2'
 tags:
-  - jekyll
-  - dactl
-  - howto
+  - session d'écoute
+  - Hazy Montagne Mystique
+  - Anette Zénith
 hero: https://source.unsplash.com/collection/582860/
-overlay: red
+overlay: green
 ---
 
 All of the dactl's configurations has to be set in `_config.yml` file. Read on for explanation of all of the features that you can toggle, including configuring the layout.

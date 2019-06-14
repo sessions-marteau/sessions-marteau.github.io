@@ -10,10 +10,15 @@ header {
     font-size: 3.5rem;
     font-weight: $base-font-weight-bold;
     color: var(--link-color);
+    text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+        
 
     .logosvg {
-    	  height: 2.7rem;
+    	  height: 12rem;
         -webkit-filter: var(--invert-logo-color);
+        
     }
 }
 

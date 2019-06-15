@@ -1,7 +1,34 @@
 // Centered page, post titles and subtitles
 //-------------------------------
 
-.page-title-container,
+.page-title-container {
+  width: 100%;
+  margin-bottom: 6rem;
+  height: 20rem;
+
+  text-align: center;
+  position: relative;
+
+  h1 {
+    font-weight: $base-font-weight-bold;
+    font-size: $post-title-size;
+    border: 0; // reset
+    a {
+      display: block; // slide border needs to cover the whole heading
+      @include border-slide(left)
+    }
+  }
+
+  // heading container
+  .heading-container {
+    position: relative;
+    top: 0%;
+    transform: translateY(-50%);
+  }
+
+}
+
+
 .post-title-container {
     width: 100%;
     margin-bottom: 6rem;
@@ -23,7 +50,7 @@
     // heading container
     .heading-container {
       position: relative;
-      top: 0%;
+      top: 50%;
       transform: translateY(-50%);
     }
 

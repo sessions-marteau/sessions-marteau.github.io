@@ -34,7 +34,7 @@ author:
   github                    : sessions-marteau
   youtube                   : youtube-user-name
   stackoverflow             : stackoverflow-user-name
-  disqus                    : dactl # your disqus site name
+  disqus                    : # dactl # your disqus site name
   google_analytics          : # 'UA-XXXXXXXX-X'
   photo                     : "assets/img/marteau.svg"
   photo2x                   : "uploads/me.png"

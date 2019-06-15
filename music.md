@@ -12,7 +12,7 @@ published: true
 
 <!-- ## Some heading  -->
 
-Here are some links to music we love and is hard(ish) to find.
+Here are some links to music we love and are hard(ish) to find.
 
 ### Musique électronique
 

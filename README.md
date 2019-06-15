@@ -8,6 +8,10 @@ bundle update
 bundle exec jekyll serve
 ```
 
+# Instructions
+
+- If truncation of blog entries is needed, a `<!–-break-–>` can be added wherever you want the break to happen.
+
 
 # dactl
 dactl is a fast, modern and configurable [Jekyll](http://jekyllrb.com/) theme with some tricks up it's sleeve. It has a live theme switcher and it's main blog layout display prominent hero images for posts with colored overlays and nice animations.

@@ -42,17 +42,21 @@
 .icon-info:before {
   content: "\e88e";
 }
-.icon-invert_colors:before {
+.icon-invert_colors2:before {
+  font-size: 50px;
+  padding-top: 50px;
   content: "\e891";
+}
+.icon-invert_colors:before {
+  font-size: 50px;
+  padding-top: 50px;
+  content: "\e901";
 }
 .icon-language:before {
   content: "\e894";
 }
 .icon-search:before {
   content: "\e900";
-}
-.icon-invert_colors2:before {
-  content: "\e901";
 }
 .icon-rss_feed:before {
   content: "\e902";
@@ -71,4 +75,11 @@
 }
 .icon-youtube:before {
   content: "\e907";
+}
+.icon-facebook:before {
+  font-size: 26px;
+  content: "\e913";
+}
+.icon-instagram:before {
+  content: "\e911";
 }

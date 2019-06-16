@@ -4,7 +4,7 @@ title:  "Bienvenue a Sessions d'écoute Marteau!"
 tags:
   - marteau
 hero: https://source.unsplash.com/collection/4989404/
-overlay: red
+overlay: green
 published: true
 
 ---

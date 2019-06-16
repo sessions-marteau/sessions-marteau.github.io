@@ -24,6 +24,22 @@
             </a>
         </li>
         {% endif %}
+        {% if site.author.facebook %}
+        <li>
+            <a href="https://facebook.com/{{ site.author.facebook }}" target="_blank" class="smaller">
+              <span class="icon-facebook"></span>
+              <!-- <img src="/assets/vendor/spotify-podcast-badges/SVG/icons8-facebook-old.svg"> -->
+            </a>
+        </li>
+        {% endif %}    
+        {% if site.author.instagram %}
+        <li>
+            <a href="https://instagram.com/{{ site.author.facebook }}" target="_blank" class="smaller">
+              <span class="icon-instagram"></span>
+              <!-- <img src="/assets/vendor/spotify-podcast-badges/SVG/icons8-facebook-old.svg"> -->
+            </a>
+        </li>
+        {% endif %}                
         <!-- {% if site.author.stackoverflow %}
         <li>
             <a href="https://stackoverflow.com/{{ site.author.stackoverflow }}" target="_blank" class="smaller">
@@ -61,7 +77,7 @@
         {% endif %} -->
         <li>
             <a href="#" onclick="switchTheme()" title="Switch theme?">
-              <span class="icon-invert_colors" id="theme-switcher"></span>
+              <div class="icon-invert_colors" id="theme-switcher"></div>
             </a>
         </li>
       </ul>

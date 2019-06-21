@@ -12,13 +12,18 @@ published: true
 
 <!-- ## Some heading  -->
 
-Here are some links to music we love and are hard(ish) to find.
+Links to music we love and playlists from previous sessions:
 
-### Musique électronique
-
+### Sélection Session Marteau #2 - Anette Zénith
 
 <div class="youtube-video">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL3EAGERkrxh09Y5WUIevXCkiuClgn-xQh" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL3EAGERkrxh1EvoBfMO2sZdOXP2jDODqC" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+### Sélection Session Marteau #2 - Hazy Montagne Mystique
+
+<div class="youtube-video">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL3EAGERkrxh0kWEAnlsFpgFOs_w42Y5lp" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+</div> 

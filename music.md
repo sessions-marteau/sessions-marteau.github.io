@@ -48,7 +48,6 @@ Links to music we love and playlists from previous sessions:
 - Cleoma Falcon
 - Labradford
 - cLOUDDEAD
-- La Stèle Des Pleurs
 - Park Hye Jin
 - Cindy Lee
 - Paris Hilton

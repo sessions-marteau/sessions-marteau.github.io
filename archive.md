@@ -9,9 +9,11 @@ sitemap:
 
 <div class="page">
 
+{% comment %%}
 {% capture page_subtitle %}
   {% include page/searchbox.html %}
 {% endcapture %}
+ {% endcomment %}
 
 {% include page/title.html title=page.title subtitle=page_subtitle %}
 

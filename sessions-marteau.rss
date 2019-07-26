@@ -53,6 +53,30 @@
    <itunes:duration>0:16:16</itunes:duration>
    <pubDate>Wed, 17 Apr 2019 23:00:00 GMT</pubDate>
 </item>
+
+<item>
+   <title>Session #2A Anette Zenith</title>
+   <description>Anette Zenityh mixe autant de l'africana du futur en passant par le jazz du désert pour finir avec de l'électronique décapitée.</description>
+   <itunes:summary>Anette Zenityh mixe autant de l'africana du futur en passant par le jazz du désert pour finir avec de l'électronique décapitée.</itunes:summary>
+   <itunes:subtitle>Anette Zenityh mixe autant de l'africana du futur en passant par le jazz du désert pour finir avec de l'électronique décapitée.</itunes:subtitle>
+   <itunesu:category itunesu:code="102107" />
+   <enclosure url="https://sessionsmarteau.com/uploads/session-001/podcasts/Sessions-Marteau-001B-Felix-Antoine-mix.mp3" type="audio/mpeg" length="1" />
+   <guid>https://sessionsmarteau.com/uploads/session-001/podcasts/Sessions-Marteau-001B-Felix-Antoine-mix.mp3</guid>
+   <itunes:duration>0:54:44</itunes:duration>
+   <pubDate>Thu, 20 Jun 2019 23:00:00 GMT</pubDate>
+</item>
+
+<item>
+   <title>Session #2B Hazy Montagne Mystique</title>
+   <description>Hazy Montagne Mystique propose une sélection musicale qui se consacre aux trésors perdus, retrouvés et futurs.</description>
+   <itunes:summary>Hazy Montagne Mystique propose une sélection musicale qui se consacre aux trésors perdus, retrouvés et futurs.</itunes:summary>
+   <itunes:subtitle>Hazy Montagne Mystique propose une sélection musicale qui se consacre aux trésors perdus, retrouvés et futurs.</itunes:subtitle>
+   <itunesu:category itunesu:code="102107" />
+   <enclosure url="https://sessionsmarteau.com/uploads/session-001/podcasts/Sessions-Marteau-001B-Felix-Antoine-mix.mp3" type="audio/mpeg" length="1" />
+   <guid>https://sessionsmarteau.com/uploads/session-001/podcasts/Sessions-Marteau-001B-Felix-Antoine-mix.mp3</guid>
+   <itunes:duration>1:05:28</itunes:duration>
+   <pubDate>Thu, 20 Jun 2019 23:00:00 GMT</pubDate>
+</item>
 <!--END REPEAT--> 
 
 </channel>

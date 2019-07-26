@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Podcasts
+title: Podcast
 permalink: /podcasts/
 published: true
 ---
@@ -18,8 +18,10 @@ published: true
         </a>
 </div>
 
-<iframe src="https://embed.iono.fm/epi/699906" width="100%" height="135" frameborder="0"><a href="https://iono.fm/e/699906">Content hosted by iono.fm</a></iframe>
+<iframe src="https://embed.iono.fm/epi/723591?quality=high" width="100%" height="135" frameborder="0"><a href="https://iono.fm/e/723591">Content hosted by iono.fm</a></iframe>
 
-<iframe src="https://embed.iono.fm/epi/699907" width="100%" height="135" frameborder="0"><a href="https://iono.fm/e/699907">Content hosted by iono.fm</a></iframe>
+<iframe src="https://embed.iono.fm/epi/699906?quality=high" width="100%" height="135" frameborder="0"><a href="https://iono.fm/e/699906">Content hosted by iono.fm</a></iframe>
+
+<iframe src="https://embed.iono.fm/epi/699907?quality=high" width="100%" height="135" frameborder="0"><a href="https://iono.fm/e/699907">Content hosted by iono.fm</a></iframe>
 
 </div>
